@@ -1,0 +1,7 @@
+E:\hoc Csharp\NhiPhan\NhiPhan\obj\x86\Debug\NhiPhan.Form1.resources
+E:\hoc Csharp\NhiPhan\NhiPhan\obj\x86\Debug\NhiPhan.Properties.Resources.resources
+E:\hoc Csharp\NhiPhan\NhiPhan\obj\x86\Debug\NhiPhan.csproj.GenerateResource.Cache
+E:\hoc Csharp\NhiPhan\NhiPhan\bin\Debug\NhiPhan.exe
+E:\hoc Csharp\NhiPhan\NhiPhan\bin\Debug\NhiPhan.pdb
+E:\hoc Csharp\NhiPhan\NhiPhan\obj\x86\Debug\NhiPhan.exe
+E:\hoc Csharp\NhiPhan\NhiPhan\obj\x86\Debug\NhiPhan.pdb

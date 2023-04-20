@@ -1,0 +1,8 @@
+E:\hoc Csharp\NhiPhan\SoAB\bin\Debug\SoAB.exe
+E:\hoc Csharp\NhiPhan\SoAB\bin\Debug\SoAB.pdb
+E:\hoc Csharp\NhiPhan\SoAB\obj\x86\Debug\SoAB.Properties.Resources.resources
+E:\hoc Csharp\NhiPhan\SoAB\obj\x86\Debug\SoAB.csproj.GenerateResource.Cache
+E:\hoc Csharp\NhiPhan\SoAB\obj\x86\Debug\SoAB.exe
+E:\hoc Csharp\NhiPhan\SoAB\obj\x86\Debug\SoAB.pdb
+E:\hoc Csharp\NhiPhan\SoAB\obj\x86\Debug\SoAB.csprojResolveAssemblyReference.cache
+E:\hoc Csharp\NhiPhan\SoAB\obj\x86\Debug\SoAB.FormBai2.resources
